@@ -1,0 +1,13 @@
+<package>
+    <name>my_package</name>
+    <version>0.1.0</version>
+    <description>
+    this package is a test for RH3
+    </description>
+    <maintainer
+    email="cristhianpoveda12@gmail.com">Cristhian_Daniel _Poveda_Bravo</maintainer>
+    <license>None</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+
+</package>
